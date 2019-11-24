@@ -13,7 +13,9 @@ git
 ## Setup
 
 ```
-git clone https://github.com/jeremyroca/NODEJS_LABs/LAB2_EXPRESSJS
+git clone https://github.com/jeremyroca/NODEJS_LABs
+cd NODEJS_LABs
+cd LAB2_EXPRESSJS
 npm install
 npm start
 open http://localhost:1337/ to see the app.
