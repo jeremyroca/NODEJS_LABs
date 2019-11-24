@@ -18,7 +18,7 @@ cd NODEJS_LABs
 cd LAB1
 npm install
 npm start
-open http://localhost:1337/ to see the app.
+open http://localhost:1338/ to see the app.
 ```
 
 ## Author
